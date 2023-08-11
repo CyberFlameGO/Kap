@@ -84,7 +84,7 @@
     "react-linkify": "^0.2.2",
     "react-tooltip": "^4.2.19",
     "read-pkg": "^5.2.0",
-    "semver": "^7.3.4",
+    "semver": "^7.5.2",
     "string-math": "^1.2.2",
     "tempy": "^1.0.0",
     "tildify": "^2.0.0",
